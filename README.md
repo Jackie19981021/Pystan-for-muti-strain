@@ -1,0 +1,1 @@
+The article "Contemporary statistical inference for infectious disease models using Stan" is the first project exercise for many who use Stan, with all code written in Rstan. I have rewritten it in Python and replicated their experiments, aiming to help many Python enthusiasts gain a deeper understanding of Stan.
